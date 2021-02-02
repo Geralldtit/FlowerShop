@@ -1,0 +1,44 @@
+body {
+  background-color: #292929;
+  color: #fff;
+  font-family: 'Gotham Pro', Arial, sans-serif;
+}
+
+.header-description {
+  font-family: 'Gotham Pro Light', Arial, sans-serif;
+  font-size: 12px;
+}
+
+.text-color-red {
+  color: #ff3469;
+  font-family: 'Gotham Pro Medium', Arial, sans-serif;
+}
+
+.header {
+  padding-top: 50px;
+}
+
+.header-phone {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  display: block;
+  text-align: right;
+}
+
+.header-info {
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 7px;
+  display: block;
+  text-align: right;
+}
+
+.header-callback {
+  color: #ff3469;
+  display: block;
+  text-align: right;
+  margin-top: 16px;
+  font-size: 16px;
+}
