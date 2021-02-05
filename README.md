@@ -1,6 +1,6 @@
 # FlowerShop
 
-##Technologies:
+## Technologies:
 - HTML
 - CSS
 - Bootstrap
